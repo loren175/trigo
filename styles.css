@@ -101,12 +101,12 @@ section ul li:hover {
     transform: scale(1.1);
 }
 
-.game-list img {
+.show-list img {
     width: 140px;
     border-radius: 8px;
 }
 
-.channel-list img {
+.movie-list img {
     width: 140px;
     border-radius: 8px;
 }
